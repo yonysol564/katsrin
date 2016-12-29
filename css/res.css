@@ -1,0 +1,497 @@
+@media only screen and (min-width:768px){
+	.mobileOpenMegaMenu_arrow, .showInMobile{display:none !important;}
+	body.contactMenuIsOpen .topOpencontactMenu{margin-top:0;}
+	nav > ul > li:hover .megaMenu{display:block;}
+}
+@media only screen and (max-width:1320px){
+	.wheelchair-icon{top:200px;}
+	.sonsImg{max-width:none;width:auto;min-width:100%;height:100%;left:50%;top:0;-webkit-transform:translate(-50%,0) scale(1.04);transform:translate(-50%,0) scale(1.04);}
+	.newsSons_a:hover .sonsImg, a.news-items:hover .sonsImg{-webkit-transform:translate(-50%,0) scale(1);transform:translate(-50%,0);}
+}
+@media only screen and (max-width:1220px){
+	.psdFiles_li{width:20%;}
+	.department-page .alphone-addre:first-child{padding:0 0 0 10px;}
+	.container{width:100%;padding:0 15px;}
+	.container.headerContainer{-webkit-transform:none;transform:none;left:0;}
+	nav > ul > li > a{font-size:19px;}
+	.events-items{padding:0 0 0 3%;}
+	.events-items:nth-child(2){padding:0 0.8% 0 2.2%;}
+	.events-items:nth-child(3){padding:0 .8% 0 2.2%;}
+	.council-contact{width:100%;float:none;}
+	.council-info .social-sites{float:right;padding:0 0 10px 0;width:100%;}
+	.inner-content{width:78%;padding:0 25px 0 0;}
+	.sidebar{width:20%;}
+	.mayor-form{padding:26px 0 0 5px;}
+	.banner-section .rgt-arrow{right:15px;}
+	.banner-section .lft-arrow{left:15px;}
+	.alfon-table .head:nth-child(4){width:15%;}
+	.alfon-table .head:nth-child(5){width:16%;}
+	.alfon-table .head:nth-child(3){width:27%;}
+	.alfon-table .data:nth-child(8){width:15%;}
+	.alfon-table .data:nth-child(10){width:19%;}
+	.alfon-data .data, .alfon-table .head{font-size:18px;}
+	.protocols-data .head_h6{width:32%;}
+	.protocols-info{width:68%;}
+	.alphone-mayor{width:100%;border:none;float:none;margin:0 0 20px 0;}
+	.alphone-info{width:100%;border:none;float:none;}
+	.alphone-table .head:nth-child(2){width:50%;}
+	.alphone-table .head:nth-child(3){width:30%;}
+	.alphone-table .data:nth-child(4){width:50%;}
+	.alphone-table .data:nth-child(6){width:30%;}
+	.department-page .alphone-mayor{width:100%;}
+	.department-page .alphone-info{width:87%;}
+	.department-top .pera_p{padding:0 0 12px 0;}
+	.department-acco .tender-detail{margin:0 0 0 12px;}
+	.schedule-section{width:35%;}
+	.department-contact{width:60%;}
+	.tender-detail .txt{font-size:18px;}
+	nav .megaMenu button.megaMenu_btn, nav .megaMenu .megaMenu_sub_ul a{font-size:15px;}
+	nav .megaMenu{padding:14px 20px 14px 0;min-height:250px;line-height:17px;}
+	nav .megaMenu .megaMenu_sub_ul{width:160px;margin-left:370px;padding:0 20px 0 0;}
+	nav .megaMenu .megaMenuImgWrapper{top:-14px;bottom:-14px;height:-webkit-calc(100% + 28px);height:calc(100% + 28px);}
+	nav .megaMenu .megaMenuImgWrapper{width:360px;}
+}
+@media only screen and (max-width:991px){
+	.psdFiles_li{width:25%;}
+	.news-block{width:-webkit-calc(100% + 10px);width:calc(100% + 10px);margin:0 -5px;}
+	.news-items{padding:0 5px;}
+	.newsSons_li{padding:5px;}
+	.head_h1{font-size:45px;line-height:45px;}
+	.head_h2{font-size:36px;line-height:36px;}
+	.head_h5{font-size:22px;line-height:22px;}
+	.contentGalleryWrapper{width:-webkit-calc(100% + 10px);width:calc(100% + 10px);margin:0 -5px;}
+	.about-thumb{padding-right:5px;padding-left:5px;}
+	.footer-section{min-height:381px;}
+	.push{height:381px;}
+	.wrapper{margin:0 auto -381px;}
+	#logo .logoin{width:auto;height:80px;}
+	nav > ul > li > a{font-size:16px;line-height:16px;}
+	.banner-section{height:500px;}
+	.katzrin-section, .city-section{padding:50px 0 50px 0;}
+	.katzrin-items .lnk{min-width:200px;}
+	.subject-lnk .txt{font-size:18px;line-height:18px;}
+	.subject-section .head_h3{padding:0 0 40px 0;}
+	.subject-section{font-size:0;}
+	.subject-items{margin:0 0 40px 0;float:none;display:inline-block;vertical-align:top;width:32%;}
+	.mayor-section .pera_p{width:60%;}
+	.demi-view .view{height:660px;}
+	.events-section{padding:50px 0;}
+	.events-section .head_h2, .city-section .head_h2{padding:0 0 30px 0;}
+	.events-date .day{line-height:40px;height:40px;}
+	.bottomLogos_li{height:60px;line-height:60px;}
+	.information-section{text-align:center;padding:25px 0;}
+	.mail-section{float:none;display:inline-block;vertical-align:top;margin:0 0 15px 0;}
+	.social-section{float:none;width:100%;}
+	.social-sectionin{display:inline-block;vertical-align:top;}
+	.banner-section.inner-banner{height:200px;}
+	.council-items{padding:0 0 0 10px;}
+	.council-items:nth-child(even){padding:0 10px 0 0;}
+	.council-info{padding:15px 15px 2px 15px;}
+	.sidebar{width:20%;}
+	.sidebar > ul > li a{font-size:18px;}
+	.inner-main{padding:20px 0 50px 0;}
+	.inner-content{width:78%;padding:0 20px 0 0;}
+	.council-list{margin:0 0 15px 0;width:42%;}
+	.council-lnk .icon{margin:0 0 0 5px;width:15px;height:15px;}
+	.council-lnk .txt{font-size:17px;padding:1px 0 0 0;}
+	.council-list.maili-block{width:58%;}
+	.council-list.maili-block .txt{font-size:14px;}
+	.council-head .mayor-members{width:66%;}
+	.mayorMembersImgWrap{width:60px;height:60px;}
+	.council-head{padding:10px;}
+	.council-head .pera_p{margin:20px 10px 0 0;font-size:17px;}
+	.council-items .cont-but{font-size:17px;min-width:80px;margin:30px 0 0 0;}
+	.mayor-form{padding:20px 0 0 0;}
+	.contact-captcha{width:90%;}
+	.tender-page .pera_p{line-height:20px;}
+	.alfon-scroll{height:550px;padding:0 15px 0 0;}
+	.alfon-data .data, .alfon-table .head{font-size:19px;}
+	.alfon-table .head{width:100%;float:none;}
+	.alfon-data .data{width:100%;float:none;padding:0 0 10px 0;}
+	.alphonePageTableWrapper .alfon-table .head{float:right;width:20%;}
+	.alphonePageTableWrapper .alfon-data .data{float:right;width:80%;}
+	.tableItemHeadline{display:block;padding:0 0 5px 0;}
+	.alfon-head{display:none;}
+	.alfon-table{margin:10px 0 0 0;}
+	.alfon-data{padding:10px 0 0 0;}
+	.protocols-data .head_h6{width:100%;float:none;margin:0 0 5px 0;}
+	.protocols-info{width:100%;float:none;}
+	.protocols-point{width:100%;float:none;padding:0 0 5px 0;}
+	.protocols-video{width:100%;float:none;}
+	.alphone-head{display:none;}
+	.alphone-table:not(.tendersPageTableWrapper) .head{display:none;}
+	.alphone-data .data{width:100%;float:none;}
+	.alphone-data .data:nth-child(2){padding:0 0 10px 0;}
+	.contactCouncilUnits .alphone-data .data:nth-child(2), .contactCouncilUnits .alphone-table .data:nth-child(4){width:100%;}
+	.alphone-data{padding:10px 0;}
+	.tendersPageTableWrapper.alphone-table .alphone-data:nth-child(even){background-color:#f9fdff;}
+	.tendersPageTableWrapper.alphone-table{font-size:0;}
+	.tendersPageTableWrapper.alphone-table .head{float:none;display:inline-block;vertical-align:top;width:30%;padding:0 0 10px 10px;}
+	.tendersPageTableWrapper.alphone-table .alphone-data{padding-bottom:0;}
+	.tendersPageTableWrapper.alphone-table .alphone-data .data{float:none;display:inline-block;vertical-align:top;width:70%;padding:0 0 10px 10px;}
+	.alphone-addre,
+	.alphone-addre:nth-child(2),
+	.alphone-addre:nth-child(3){
+		width:100%;
+		float:none;
+		padding:10px 0 !important;
+		border:none;
+		border-bottom:solid 1px #dadada;
+	}
+	.alphone-addre .lnk{margin:0 0 10px 0;}
+	.alphone-contactin{padding:20px 0 0 0;}
+	.tendersPageDetailsWrapper .alphone-mayor{margin:0 0 10px 0;}
+	.tendersPageDetailsWrapper .alphone-addre div.lnk{display:block;}
+	.tendersPageDetailsWrapper .opening-time .txt{width:-webkit-calc(100% - 26px);width:calc(100% - 26px);}
+	.about-bigpic{height:200px;}
+	.about-pic{height:100px;}
+	.about-thumb .txt{font-size:17px;}
+	.sonsImgWrapper{height:150px;}
+	.alphone-contactin .cont-but{float:none;margin:20px 0 0 0;}
+	.department-page .alphone-mayorin{margin:-5px 15px 0 0;}
+	.childrens-block{padding:0;}
+	.department-page .alphone-info{width:100%;}
+	.department-contact{width:100%;float:none;margin:0 0 20px 0;}
+	.schedule-section{width:100%;float:none;}
+	.tender-detail .txt{font-size:19px;}
+	.department-acco .tender-detail{margin:0 0 0 20px;}
+	.department-top{padding:20px 0 0 0;}
+	.contactCouncilUnits .alphone-table .scrollME{margin:0;padding-right:20px;}
+	.katzrin-items{padding:0 0 0 5px;}
+	.katzrin-items:nth-child(2){padding:0 5px;}
+	.katzrin-items:nth-child(3){padding:0 5px 0 0;}
+	.hpBoxesUnderBanner_imgWrap{height:185px;}
+	.katzrin-items .lnk{height:41px;line-height:41px;font-size:21px;}
+	.topOpencontactMenu_ul2{padding:0 0 0 10px;}
+	.topOpencontactMenu_ul2_li{display:block;}
+	.topOpencontactMenu_ul2_a{border:none;padding:7px 0;}
+	nav .megaMenu .megaMenu_sub_ul{width:140px;margin-left:280px;padding:0 11px 0 0;}
+	nav .megaMenu .megaMenu_ul{width:130px;padding:0 0 0 13px;}
+	nav .megaMenu{min-height:220px;}
+	nav .megaMenu .megaMenuImgWrapper{width:270px;}
+	nav .megaMenu .megaMenuImgWrapper{border-width:6px;}
+	nav .megaMenu button.megaMenu_btn, nav .megaMenu .megaMenu_sub_ul a{font-size:14px;line-height:16px;}
+	nav .megaMenu button.megaMenu_btn{padding:3px 0 3px 10px;}
+	nav .megaMenu .megaMenu_sub_ul a{padding:3px 0;}
+}
+@media only screen and (max-width:767px){
+	.psdFiles_li{width:33.333%;}
+	.psdFiles_img{height:40px;}
+	.topOpencontactMenu_ul1_li{width:84px;margin:0 0 0 10px;}
+	.topOpencontactMenu_ul1_a{font-size:13px;line-height:14px;padding:5px;height:77px;}
+	.topOpencontactMenu_ul1_span{height:35px;line-height:35px;}
+	.topOpencontactMenuContainer{padding:13px !important;}
+	.topOpencontactMenu_ul2{padding:0;}
+	.topOpencontactMenu_ul2_a{padding:3px 0;}
+	.dooble{position:static;margin:10px 0 0 0;-webkit-transform:translateX(0);transform:translateX(0);}
+	.information-section{padding-bottom:10px;}
+	.alphonePageTableWrapper .alfon-table .scrollME{max-height:none;height:auto;}
+	.tendersPageTableWrapper.alphone-table .head{width:35%;}
+	.tendersPageTableWrapper.alphone-table .alphone-data .data{width:65%;}
+	.menu_icon{display:block;}
+	.headerContainer{height:46px;line-height:46px;top:0;font-size:0;text-align:center;}
+	.header-info{
+		width:100%;
+		position:fixed;
+		top:46px;
+		right:0;
+		bottom:0;
+		background:#fff;
+		-webkit-transition:all 0.8s ease;
+		transition:all 0.8s ease;
+		-webkit-transform:translateY(100%);
+		transform:translateY(100%);
+	}
+	.topInfoContainer{
+		position:fixed;
+		top:100%;
+		right:0;
+		-webkit-transition:all 0.7s ease;
+		transition:all 0.7s ease;
+	}
+	.topInfoContainer .more-info{padding:0;}
+	.topOpencontactMenu{
+		width:-webkit-calc(100% + 30px);
+		width:calc(100% + 30px);
+		height:105px;
+		margin:-159px -15px 0 -15px;
+		-webkit-transition:all 0.8s ease;
+		transition:all 0.8s ease;
+	}
+	html.mobileMenuIsOpen body.contactMenuIsOpen .topOpencontactMenu{margin-top:-5px;}
+	html.mobileMenuIsOpen .topInfoContainer{
+		top:66px;
+		-webkit-transition:all 0.8s ease;
+		transition:all 0.8s ease;
+	}
+	html.mobileMenuIsOpen .header-info{
+		-webkit-transform:translateY(0);
+		transform:translateY(0);
+	}
+	nav{padding:10px 0 0 0;height:-webkit-calc(100vh - 106px);height:calc(100vh - 106px);overflow:auto;}
+	nav > ul{display:block;}
+	nav > ul > li{display:block;padding:0;background:none;}
+	nav > ul > li > a{display:block;margin:0;text-align:center;padding:10px;}
+	.container.topInfoContainer{
+		padding:0 !important;
+	}
+	html.mobileMenuIsOpen body.contactMenuIsOpen .topInfoContainer{
+		-webkit-transform:translate(0,54px);
+		transform:translate(0,54px);
+		-webkit-transition:all 0.5s ease;
+		transition:all 0.5s ease;
+		-webkit-transition-delay:0.24s;
+		transition-delay:0.24s;
+	}
+	.more-info{width:100%;padding:20px 0;text-align:center;font-size:0;}
+	.more-info .info-but{float:none;display:inline-block;vertical-align:top;line-height:13px;}
+	.language-but{float:none;display:inline-block;vertical-align:top;}
+	.more-info .info-but:first-child{display:none;}
+	.more-info .info-but:first-child + .info-but{padding-right:0;}
+	.language-but .icon{margin:0 0 0 10px;}
+	.contactCouncilUnits_searchForm{float:none;margin:10px 0 0 0;}
+	.fc th{line-height:28px !important;}
+	.pera_p{font-size:15px;line-height:20px;}
+	.head_h2{font-size:18px;line-height:24px;}
+	.head_h3{font-size:20px;line-height:20px;}
+	.head_h5{font-size:18px;line-height:22px;}
+	.head_h6{font-size:16px;line-height:22px;}
+	.downloadFilesHeadline{padding-bottom:10px;}
+	.regBtn{height:30px;line-height:30px;font-size:16px;width:120px;font-weight:normal;}
+	.footer-section{min-height:1px;}
+	.push{height:303px;}
+	.wrapper{margin:0 auto -303px;padding:45px 0 0 0;}
+	.big-mobile{display:none;}
+	.social-block .lnk{margin:0 8px;}
+	.mobile-search{display:block;position:absolute;left:15px;top:14px;line-height:35px;}
+	.pagenation{bottom:5px;}
+	.wheelchair-icon{top:60px;}
+	.pagenation .bullet{background-size:14px auto;width:7px;height:7px;margin:0 5px;}
+	.pagenation .bullet:hover{background-position:-7px 0;}
+	header{padding:5px 15px 0 15px;position:fixed;width:100%;background:#fff;z-index:30;left:0;top:0;height:46px;}
+	#logo{float:none;text-align:center;display:inline-block;vertical-align:middle;}
+	#logo a{display:inline-block;vertical-align:top;}
+	#logo .logoin{width:auto;height:35px;vertical-align:middle;}
+	.banner-section{height:205px;}
+	.banner-content .head_h1{font-size:27px;line-height:27px;padding:0 0 6px 0;background-size:44px 2px;margin:0 0 4px 0;}
+	.katzrin-items .lnk{min-width:160px;font-size:17px;height:34px;line-height:34px;margin:-20px 0 0 0;padding:0 13px 0 21px;}
+	.hpBoxesUnderBanner_imgWrap{height:140px;}
+	.katzrin-section .pera_p{padding:0 0 30px 0;}
+	.katzrin-section, .city-section{padding:25px 0;}
+	.demi-content .pera_p{font-size:12px;padding:0 0 10px 0;}
+	.demi-block{display:block;width:100%;}
+	.demi-view{display:block;width:100%;}
+	.demi-content .arrow{top:6px;background-size:6px 10px;width:6px;height:10px;left:6px;}
+	.demi-view .view{height:490px;}
+	.demi-content .lnk{padding:0 5px;font-size:12px;line-height:21px;height:25px;min-width:115px;}
+	.demi-content .sub-head{font-size:14px;line-height:14px;padding:0 0 4px 0;}
+	.subject-section .head_h3{font-size:16px;line-height:16px;padding:0 0 29px 0;}
+	.demi-content{padding:30px 30px 60px 30px;width:100%;}
+	.demi-container{position:static;}
+	.demi-left{display:block;width:100%;position:absolute;bottom:0;z-index:5;right:0;}
+	.demi-container .container{padding:0;}
+	.subject-section{width:calc( 100% - 60px );-moz-width:calc( 100% - 60px );-ms-width:calc( 100% - 60px );-o-width:calc( 100% - 60px );-webkit-width:calc( 100% - 60px );right:30px;top:-30px;}
+	.events-items{width:50%;padding:0 20px;}
+	.city-items{width:50%;padding:0 5px;}
+	.bottomLogos_li{height:40px;line-height:40px;}
+	.inner-nav > ul > li{padding:0 0 0 15px;margin:0 0 0 12px;}
+	.inner-nav > ul > li > a{font-size:14px;line-height:14px;}
+	.sidebar{width:30%;}
+	.sidebar > ul > li a{font-size:18px;line-height:18px;}
+	.inner-content{width:68%;padding:0 15px 0 0;}
+	.inner-head .head{font-size:22px;line-height:22px;}
+	.council-items{padding:0;width:100%;margin:0 0 20px 0;}
+	.council-items:nth-child(even){padding:0;}
+	.council-items .cont-but{font-size:14px;}
+	.council-head .pera_p{font-size:14px;}
+	.contact-field{width:100%;float:none !important;}
+	.contact-field.fl_rf{margin:0 0 15px 0;}
+	.contact-block{margin:0 0 15px 0;}
+	.contact-chks{padding:0;}
+	.contact-field .msg-field{height:80px;}
+	.content-section .pera_p{font-size:13px;}
+	.contact-captcha{width:100%;float:none;margin:5px 0 0 0;display:inline-block;vertical-align:top;}
+	.mayor-form .send-but{margin:5px 0 0 0;}
+	.tender-top{padding:0 0 10px 0;margin:0 0 15px 0;}
+	.tender-detail{border:none;padding:0;margin:0 0 10px 0;float:none;}
+	.tender-detailsin{padding:15px 0 10px 0;}
+	.alfon-officials .head_h5{float:none;padding:0 0 10px 0;}
+	.alfon-seach{float:none;width:100%;}
+	.alfon-top{padding:0 0 5px 0;}
+	.alfon-top .pera_p{font-size:14px;line-height:22px;}
+	.alfon-data .data, .alfon-table .head{font-size:14px;}
+	.alphone-mayorin .title{font-size:16px;line-height:22px;}
+	.alphone-addre .txt{font-size:17px;}
+	.alphone-table .head, .alphone-data .data{font-size:16px;line-height:16px;}
+	.alfon-table .data:nth-child(8){font-size:17px;}
+	.alfon-table .data:nth-child(10){font-size:14px;}
+	.department-top .pera_p{font-size:14px;line-height:22px;}
+	.protocols-data .txt{font-size:14px;}
+	.protocols-head .head_h5{font-size:19px;}
+	.tender-pdf .txt{font-size:15px;}
+	.tender-page .pera_p{font-size:14px;line-height:18px;}
+	.tender-detail .txt{font-size:15px;}
+	.tender-page .tender-top:nth-child(1) .pera_p{line-height:24px;}
+	.about-content{width:100%;float:none;}
+	.about-gallery{width:100%;float:none;padding:5px 0 0 0;margin:0;}
+	.about-content .pera_p{padding:0 0 10px 0;font-size:14px;line-height:22px;}
+	.about-pic{height:120px;}
+	.about-bigpic{height:330px;margin:0 0 10px 0;}
+	.news-items, .newsSons_li{width:50%;}
+	.news-items .pera_p, .newsSons_li .pera_p{font-size:14px;line-height:22px;}
+	.about-top{padding:0 0 10px 0;}
+	.childrens-pic{float:none;width:100%;margin:0 0 10px 0;}
+	.department-top .pera_p{padding:0 0 10px 0;}
+	.department-acco .tender-detail{margin:0 0 10px 0;}
+	footer{padding:0;}
+	footer .container{padding:0;}
+	.footerColumn{width:100%;float:none;border-bottom:solid 2px #565656;padding:0;}
+	.footerColumn .head{padding:8px 15px;position:relative;}
+	.footerColumn .head:after{
+		content:'';
+		width:5px;
+		height:5px;
+		position:absolute;
+		left:15px;
+		top:50%;
+		margin:-2.5px 0 0 0;
+		-webkit-transform:rotate(45deg);
+		transform:rotate(45deg);
+		border-bottom:1px solid #fff;
+		border-left:1px solid #fff;
+		-webkit-transition:all 0.4s ease;
+		transition:all 0.4s ease;
+	}
+	.footerColumn ul{display:none;padding:0 15px 10px 15px;}
+	.footerColumn:nth-last-child(2) ul{border:none;}
+	.footer .head{width:100%;text-align:right;font-size:13px;line-height:13px;padding:10px 15px 10px 25px;font-weight:normal;}
+	.footer > ul > li > .head{padding:10px 15px 10px 15px;}
+	.footerColumn ul > li > a{font-size:13px;padding:5px 0;}
+	.contactCouncilUnits .alphone-data .data:nth-child(2), .alphone-table .data:nth-child(4){font-size:16px;}
+	.banner-section .swiper-pagination-bullet{width:8px;height:8px;margin:0 7px;}
+	nav .megaMenu{width:100%;position:static;padding:5px 11px;min-height:1px;}
+	nav .megaMenu .megaMenuImgWrapper{display:none;}
+	nav .megaMenu .megaMenu_sub_ul{margin:0 -1px 0 0;}
+	nav .megaMenu .megaMenu_ul{width:50%;}
+	nav .megaMenu .megaMenu_sub_ulWrap{text-align:right;}
+	nav .megaMenu .megaMenu_sub_ul{width:100%;}
+	.events-section{padding:25px 0;}
+	.toAllBtn{margin:25px 0 0 0;font-size:16px;min-width:140px;height:29px;line-height:29px;letter-spacing:1px;}
+}
+@media only screen and (max-width:599px){
+	.followUsMinus{display:none;}
+	.news-block{width:-webkit-calc(100% + 30px);width:calc(100% + 30px);margin:0 -15px;}
+	.partners-section{display:none;}
+	.mail-section{width:100%;}
+	.mail-section .head_h5{width:100%;padding:0 0 10px 0;}
+	.search-block{float:none;display:inline-block;vertical-align:top;}
+	.social-section .head_h5{width:100%;float:none;padding:0 0 10px 0;}
+	.sidebar{width:100%;float:none;}
+	.sidebar > ul > li > a{padding:10px 0;}
+	.sidebar > ul > li > ul{padding:10px 0;}
+	.sidebar > ul > li > ul > li a{padding:6px 0;}
+	.inner-main{padding:15px 0 20px 0;}
+	.inner-head{padding:0 0 15px 0;}
+	.inner-content{width:100%;padding:0;float:none;border:none;}
+	.council-items{padding:0 !important;width:100%;margin:0 0 20px 0;}
+	.council-items:nth-child(even){padding:0 5px 0 0;}
+	.council-list{float:none;width:100% !important;margin:0 0 10px 0;}
+	.inner-head .head{float:none;padding:10px 0 0 0;clear:both;}
+	.social-sites{float:left;width:100%;padding:0;}
+	.contact-field .msg-field{padding:10px 15px;}
+	.tender-page .head_h5{padding:0 0 5px 0;}
+	.banner-section .rgt-arrow, .banner-section .lft-arrow{display:none;}
+	.contactCouncilUnits .alphone-table .scrollME{padding:0;margin:0;max-height:none;}
+	.hpCityContainer{padding:0;}
+	.katzrin-items .lnk{height:30px;line-height:30px;min-width:130px;}
+	.katzrin-items .arrow{left:10px;height:10px;margin:-5px 0 0 0;}
+	.hpBoxesUnderBanner_imgWrap{height:100px;}
+}
+@media only screen and (max-width:479px){
+	.formPOPheadline{padding:0 0 15px 0;}
+	.popInputsWrapper{width:100%;padding:0 0 15px 0 !important;}
+	.topOpencontactMenuContainer{text-align:center;padding:10px 5px 5px 5px !important;}
+	.topOpencontactMenu{height:85px;margin-top:-139px;}
+	.topOpencontactMenu_ul1, .topOpencontactMenu_ul2{float:none;display:inline-block;vertical-align:top;line-height:15px;}
+	.topOpencontactMenu_ul2{padding:6px 0 0 0;}
+	html.mobileMenuIsOpen body.contactMenuIsOpen .topInfoContainer{-webkit-transform:translate(0,34px);transform:translate(0,34px);}
+	.topOpencontactMenu_ul1_li{width:106px;max-width:33.3333%;margin:0;padding:0 3px 6px 3px;}
+	.topOpencontactMenu_ul1_a{height:auto;min-height:38px;text-align:right;}
+	.topOpencontactMenu_ul1_span{float:right;width:15px;height:15px;line-height:15px;padding:0;margin:0 0 0 5px;}
+	.topOpencontactMenu_ul2_li{display:inline-block;}
+	.topOpencontactMenu_ul2_a{padding:0 6px;border-left:1px solid #D1D1D1;font-size:13px;}
+	.alphonePageTableWrapper .alfon-table .head{width:25%;}
+	.alphonePageTableWrapper .alfon-data .data{width:75%;}
+	.tendersPageTableWrapper.alphone-table .head{width:100%;font-weight:bold;}
+	.tendersPageTableWrapper.alphone-table .alphone-data .data{width:100%;}
+	.katzrin-items .pic{width:100%;height:auto;min-height:100%;left:0;top:50%;-webkit-transform:translate(0,-50%);transform:translate(0,-50%);}
+	.katzrin-section{padding:30px 0 10px 0;}
+	.katzrin-items{width:100%;float:none;padding:0 0 20px 0;}
+	.katzrin-items .lnk{min-width:210px;}
+	.pera_p{line-height:18px;}
+	.mobile-none{display:none;}
+	.push{height:322px;}
+	.wrapper{margin:0 auto -322px;}
+	.banner-content{width:100%;}
+	.katzrin-section{padding:25px 0 15px 0;font-weight:bold;}
+	.katzrin-section .head_h3{padding:0;}
+	.katzrin-section .pera_p{padding:0 0 14px 0;}
+	.katzrin-items{width:100%;float:none;padding:0 0 10px 0 !important;}
+	.hpBoxesUnderBanner_imgWrap{height:155px;}
+	.katzrin-items .lnk{height:30px;line-height:30px;margin:-15px 0 0 0;padding:0 10px 0 10px;}
+	.katzrin-items .arrow{top:11px;background-size:6px 10px;width:6px;height:10px;left:10px;}
+	.demi-content{padding:22px 30px 45px 30px;}
+	.demi-content .head_h2{padding:0;margin:0 0 4px 0;}
+	.mayor-section .pic{width:40px;height:40px;}
+	.mayor-section .pera_p{margin:5px 9px 0 0;padding:0;}
+	.mayor-section{padding:0 0 15px 0;}
+	.subject-section{top:-30px;padding:26px 0 7px 2px;}
+	.servicesIconsWrap{height:25px;line-height:25px;}
+	.subject-lnk .txt{font-size:12px;line-height:12px;font-weight:bold;}
+	.subject-items{margin:0 0 21px 0;padding:0 15px;}
+	.demi-view .view{height:275px;}
+	.events-items{width:100%;float:none;padding:0 36px 0 20px !important;}
+	.events-block .lft-arrow{display:block;position:absolute;left:15px;top:50%;margin:-10px 0 0 0;z-index:3;}
+	.events-block .rgt-arrow{display:block;position:absolute;right:15px;top:50%;margin:-10px 0 0 0;z-index:3;}
+	.events-section{padding:22px 0;position:relative;}
+	.events-section .head_h2{padding:0 0 18px 0;}
+	.content-section .lnk{font-size:13px;line-height:13px;}
+	.events-items .content-section{padding:0 6% 0 0;}
+	.events-date .day{line-height:23px;height:24px;font-size:20px;}
+	.events-date{font-size:13px;line-height:14px;}
+	.city-items{width:100%;}
+	.city-section{padding:22px 0 19px 0;}
+	.city-section .head_h2{padding:0 0 24px 0;}
+	.imgWrapper{height:155px;margin:0 0 12px 0;}
+	.hpCityContainer .imgWrapper{height:115px;}
+	.content-section .date{line-height:13px;font-size:13px;padding:0;}
+	.city-block .head_h5{padding:0 0 3px 0;}
+	.mail-section .head_h5{padding:0 0 8px 0;}
+	.mail-section{margin:0 0 6px 0;}
+	.search-block{width:260px;}
+	.search-block .text-field{height:24px;font-size:13px;line-height:24px;padding:0 8px 0 60px;}
+	.search-block .sub-but{left:1px;top:1px;height:22px;font-size:13px;line-height:22px;min-width:50px;}
+	.social-section .head_h5{font-size:15px;padding:0 0 7px 0;letter-spacing:0.7px;}
+	.social-block .icon{width:20px;height:20px;}
+	.social-block .lnk{margin:0 5px;}
+	.inner-layer{height:50px;margin:-50px 0 0 0;}
+	.inner-nav{padding:20px 0 0 0;}
+	.banner-section.inner-banner{height:150px;}
+	.contact-field .msg-field{height:80px;}
+	.alfon-scroll{height:540px;}
+	.alphoneMayorImgWrap{width:60px;height:60px;}
+	.alphone-mayor{margin:0 0 5px 0;}
+	.alphone-contact .head_h5{padding:0 0 10px 0;}
+	.about-bigpic{height:200px;}
+	.about-pic{height:100px;}
+	.news-items, .newsSons_li{width:100%;float:none;}
+	.news-items .head_h5, .newsSons_li .head_h5{line-height:18px;}
+	.news-block{padding:0;}
+	.department-contact{padding:0;margin:0 0 15px 0;}
+	.department-info .head_h5{padding:0 0 10px 0;}
+	.schedule-item{padding:10px 2px 10px 0;}
+	.department-acco .head_h6{padding:10px 0;}
+	.department-page .alphone-contactin{padding:20px 0 20px 0;}
+	.newsSons_a .sonsImgWrapper{height:200px;}
+	.psdFiles_li{width:50%;}
+}

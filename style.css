@@ -1,0 +1,17 @@
+/*
+Theme Name: katsrin
+Version: 1.0
+*/
+
+.sidebar ul li.current-menu-item a,
+.council-bar > ul > li a:hover,
+.council-bar > ul > li a.active{
+	color:#a20000;
+}
+.council-lnk .txt,
+.maili-block a.council-lnk .txt,
+.alfon-data .lnk {
+    color: #1999E6;
+    text-decoration: underline;
+	font-weight: normal;
+}
